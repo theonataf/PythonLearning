@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Menu</title>
+</head>
+
+<body>
+    <h1>MENU</h1>
+    {% for item in items%}
+    <p>Name : {{item.name}}</p>
+    <p style="color: red">Price : {{item.price}}</p>
+    <br>
+    {% endfor %}
+</body>
+
+</html>
