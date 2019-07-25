@@ -49,3 +49,6 @@ def delete_item(request, item_id):
                 "message": "item_deleted",
                 "item": item_object.name
             })
+
+
+Comment.objects.get_or_create(menu_item_id=)
