@@ -1,0 +1,28 @@
+{
+    "players": [
+        {
+            "name": "Theo",
+            "number_of_games": 0,
+            "score": 0
+        },
+        {
+            "name": "David",
+            "number_of_games": 0,
+            "score": 0
+        },
+        {
+            "name": "haim",
+            "number_of_games": 0,
+            "score": 0
+        },
+        {
+            "name": "Jack",
+            "number_of_games": 1,
+            "score": 10
+        }
+    ],
+
+    "words_picked": [
+        "unwithering"
+    ]
+}
